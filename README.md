@@ -10,7 +10,7 @@ Welcome! This repository contains a curated set of **Java-based command-line int
 |------------------|---------------------------------|--------------------|------------|---------|
 | Calculator CLI   | Basic calculator with operations like add, subtract, multiply, divide, modulus | May 2025 (1 week)  | Java       | [Details](./Calculator_CLI/README.md) |
 | Todo List CLI    | Simple CLI-based task manager with add, delete, and view features            | June 2024 (4 days) | Java       | [Details](./TodoList_CLI/README.md)   |
-| Number Guessing Game CLI   | Fun number guessing game with two modes of gameplay | 5 August 2025 (1 day)  | Java       |
+| Number Guessing Game CLI   | Fun number guessing game with two modes of gameplay | 5 August 2025 (1 day)  | Java       | [Details](./Number_Guesser/README.md)
 
 ---
 
