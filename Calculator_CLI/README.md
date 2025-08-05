@@ -3,8 +3,8 @@
 🧑‍💻 **Solo Project**
 
 📆 **Timeline**
-- Start Date: May 14, 2024
-- End Date: May 20, 2024
+- Start Date: May 14, 2025
+- End Date: May 20, 2025
 - Duration: 1 week
 
 💻 **Tech Stack**
