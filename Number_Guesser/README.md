@@ -21,4 +21,4 @@
 
 ⚙️ **Live Application**
 User can install the application by running:
-```choco install guess-it -s .```
+```choco install guess-it```
