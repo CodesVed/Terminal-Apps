@@ -1,4 +1,4 @@
-# 🧮 Calculator CLI
+# 🧮 Number Guesser
 
 🧑‍💻 **Solo Project**
 
@@ -12,9 +12,13 @@
 - Code Editor: IntelliJ IDEA
 
 🎯 **Key Features**
-- Simpe guessing game
+- Simple guessing game
 - limited attempts for guess
 
 📚 **Learnings**
 - Clean codebase
 - practiced, OOPS principles, loops, error handling
+
+⚙️ **Live Application**
+User can install the application by running:
+```choco install guess-it -s .```
