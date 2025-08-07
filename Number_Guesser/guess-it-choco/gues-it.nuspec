@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>guess-it</id>
+    <version>1.0.0</version>
+    <title>Guess It</title>
+    <authors>Vedant Jain</authors>
+    <owners>Vedant Jain</owners>
+    <description>A fun CLI number guessing game built with Java</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>java game cli terminal</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
